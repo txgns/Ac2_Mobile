@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="filtro_generos">
+		<item>@string/todos</item>
+		<item>Ação</item>
+		<item>Drama</item>
+		<item>Comédia</item>
+		<item>Ficção</item>
+		<item>Terror</item>
+		<item>Romance</item>
+		<item>Documentário</item>
+	</string-array>
+    <string-array name="generos">
+		<item>Ação</item>
+		<item>Drama</item>
+		<item>Comédia</item>
+		<item>Ficção</item>
+		<item>Terror</item>
+		<item>Romance</item>
+		<item>Documentário</item>
+	</string-array>
+    <color name="accent">#FFFFC107</color>
+    <color name="background">#FFF5F5F5</color>
+    <color name="black">#FF000000</color>
+    <color name="primary">#FF3F51B5</color>
+    <color name="primaryDark">#FF303F9F</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="adicionar_filme">Adicionar Filme</string>
+    <string name="ano">Ano</string>
+    <string name="app_name">Catálogo de Filmes</string>
+    <string name="confirmar_exclusao">Deseja excluir este filme?</string>
+    <string name="diretor">Diretor</string>
+    <string name="editar_filme">Editar Filme</string>
+    <string name="erro_titulo_obrigatorio">O título é obrigatório.</string>
+    <string name="excluir">Excluir</string>
+    <string name="filme_atualizado">Filme atualizado com sucesso</string>
+    <string name="filme_excluido">Filme excluído</string>
+    <string name="filme_salvo">Filme salvo com sucesso</string>
+    <string name="filtro_genero">Filtrar por gênero</string>
+    <string name="genero">Gênero</string>
+    <string name="nao">Não</string>
+    <string name="nota">Nota</string>
+    <string name="salvar">Salvar</string>
+    <string name="sim">Sim</string>
+    <string name="titulo">Título</string>
+    <string name="todos">Todos</string>
+    <string name="viu_no_cinema">Já viu no cinema?</string>
+    <style name="Theme.CatalogoFilmes" parent="Theme.AppCompat.Light.NoActionBar">
+		<item name="colorPrimary">@color/primary</item>
+		<item name="colorPrimaryDark">@color/primaryDark</item>
+		<item name="colorAccent">@color/accent</item>
+	</style>
+</resources>

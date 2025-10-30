@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\txgns\\.gradle\\daemon\\9.0-milestone-1\\com.ac2.catalogofilmes.app-debug-32:\\layout_activity_filme_form.xml.flat",
+        "source": "C:\\Users\\txgns\\.gradle\\daemon\\9.0-milestone-1\\com.ac2.catalogofilmes.app-main-34:\\layout\\activity_filme_form.xml"
+    },
+    {
+        "merged": "com.ac2.catalogofilmes.app-debug-32:/layout_activity_filme_form.xml.flat",
+        "source": "com.ac2.catalogofilmes.app-main-34:/layout/activity_filme_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\txgns\\.gradle\\daemon\\9.0-milestone-1\\com.ac2.catalogofilmes.app-debug-32:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\txgns\\.gradle\\daemon\\9.0-milestone-1\\com.ac2.catalogofilmes.app-main-34:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\txgns\\.gradle\\daemon\\9.0-milestone-1\\com.ac2.catalogofilmes.app-debug-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\txgns\\.gradle\\daemon\\9.0-milestone-1\\com.ac2.catalogofilmes.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\txgns\\.gradle\\daemon\\9.0-milestone-1\\com.ac2.catalogofilmes.app-debug-32:\\layout_item_filme.xml.flat",
+        "source": "C:\\Users\\txgns\\.gradle\\daemon\\9.0-milestone-1\\com.ac2.catalogofilmes.app-main-34:\\layout\\item_filme.xml"
+    },
+    {
+        "merged": "C:\\Users\\txgns\\.gradle\\daemon\\9.0-milestone-1\\com.ac2.catalogofilmes.app-debug-32:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\txgns\\.gradle\\daemon\\9.0-milestone-1\\com.ac2.catalogofilmes.app-main-34:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\txgns\\.gradle\\daemon\\9.0-milestone-1\\com.ac2.catalogofilmes.app-debug-32:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\txgns\\.gradle\\daemon\\9.0-milestone-1\\com.ac2.catalogofilmes.app-main-34:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.ac2.catalogofilmes.app-debug-32:/layout_item_filme.xml.flat",
+        "source": "com.ac2.catalogofilmes.app-main-34:/layout/item_filme.xml"
+    }
+]

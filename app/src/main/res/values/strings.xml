@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Catálogo de Filmes</string>
+	<string name="titulo">Título</string>
+	<string name="diretor">Diretor</string>
+	<string name="ano">Ano</string>
+	<string name="nota">Nota</string>
+	<string name="genero">Gênero</string>
+	<string name="viu_no_cinema">Já viu no cinema?</string>
+	<string name="salvar">Salvar</string>
+	<string name="adicionar_filme">Adicionar Filme</string>
+	<string name="editar_filme">Editar Filme</string>
+	<string name="excluir">Excluir</string>
+	<string name="confirmar_exclusao">Deseja excluir este filme?</string>
+	<string name="sim">Sim</string>
+	<string name="nao">Não</string>
+	<string name="filtro_genero">Filtrar por gênero</string>
+	<string name="todos">Todos</string>
+	<string name="erro_titulo_obrigatorio">O título é obrigatório.</string>
+	<string name="filme_salvo">Filme salvo com sucesso</string>
+	<string name="filme_atualizado">Filme atualizado com sucesso</string>
+	<string name="filme_excluido">Filme excluído</string>
+</resources>
